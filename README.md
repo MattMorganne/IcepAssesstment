@@ -9,6 +9,8 @@ The TutwokBridge folder contains the code for the actual website, implemented us
 
 On the other hand, the Ejb folder contains the library that houses the EJB (Enterprise JavaBeans) business methods. These methods are responsible for interacting with the database and handling the business logic of the application.
 
+Please also note that the viseo presenting the project is available on this file directory please read it.
+
 ## Installation
 
 To set up the project, please follow these steps:
